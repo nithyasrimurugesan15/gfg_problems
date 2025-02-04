@@ -4,3 +4,4 @@ class Solution{
         System.out.println("The input integer :"+N);
     }
 }
+//
